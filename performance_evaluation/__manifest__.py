@@ -9,9 +9,9 @@
         This will be used for the Employee performance evaluation Program in the system.
     """,
 
-    'author': "Snackat Cafe",
-    'website': "http://www.snackatcafe.com",
-
+    'author': "Vaibhav",
+    'website': "vaibhav14b@gmail.com",
+    'images': ["static/description/evaluation_prog.png"],
     'category': 'Human Resources/Employees',
     'version': '14.0.1',
     'license': 'AGPL-3',
