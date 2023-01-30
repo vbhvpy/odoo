@@ -9,8 +9,8 @@
         This will be used for the Employee performance evaluation Program in the system.
     """,
 
-    'author': "Snackat Cafe",
-    'website': "http://www.snackatcafe.com",
+    'author': "Vaibhav, Snackat",
+    'website': "www.snackat.com",
 
     'category': 'Human Resources/Employees',
     'version': '14.0.1',
